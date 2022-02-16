@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joao-vi10r;
+- 👋 Hi, I’m João Vitor;
 - 👀 I’m interested in tecnology;
 - 🌱 I’m currently learning PHP and concepts of back-end;
 - 📫 How to reach me in Instagram @jvregio10;
